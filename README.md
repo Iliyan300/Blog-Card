@@ -1,2 +1,2 @@
 # Simple Blog-Card
-Using HTML and CSS
+Challenge by Frontend Mentor. Coded by Ilian Georgiev using HTML and CSS.
