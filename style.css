@@ -21,8 +21,8 @@ body {
     height: 470px;
     border:2px solid black;
     border-radius: 20px;
-    margin:3rem;
-    padding:2rem;
+    margin:40px;
+    padding:30px;
     box-shadow: 8px 10px;
     background-color: white;
 }
